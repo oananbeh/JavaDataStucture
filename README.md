@@ -2,5 +2,5 @@
 
 # Hi and Welcome!
 
-Al Souce code I used in Data Stucture tutorial on my youtube chanel: 
+All Source code that I used in the Data Structure tutorial on my youtube channel: 
 https://www.youtube.com/watch?v=BaETiYxCDB4&list=PLgcrZcbmgo4lWOUfgdxVUO1AhjPCGMze-
